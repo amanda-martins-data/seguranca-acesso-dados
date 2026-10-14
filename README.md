@@ -1,5 +1,7 @@
 # Arquitetura de Seguranca e Acesso a Dados
 
+[![CI](https://github.com/amanda-martins-data/seguranca-acesso-dados/actions/workflows/ci.yml/badge.svg)](https://github.com/amanda-martins-data/seguranca-acesso-dados/actions/workflows/ci.yml)
+
 Motor de controle de acesso (RBAC) real e testado, aplicado aos
 papeis e niveis de sensibilidade ja definidos no
 [Projeto 08](https://github.com/amanda-martins-data/governanca-catalogo-dados)
